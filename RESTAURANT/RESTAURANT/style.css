@@ -1,0 +1,70 @@
+/* .body {
+  padding: 0;
+  margin: 0;
+} */
+/* 
+aboutus {
+} */
+
+html {
+  font-size: 18px;
+  line-height: 1.5;
+  font-weight: 300;
+  color: #fff;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+hr {
+  border: 2px solid rgb(7, 7, 7);
+}
+
+.aboutus {
+  margin: 20px;
+  font-style: italic;
+}
+
+input[type='text'] {
+  width: 40%;
+  padding: 12px 12px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 1px solid azure;
+  outline: none;
+}
+
+label {
+  color: rgb(8, 8, 8);
+}
+
+input[type='text']:focus {
+  background-color: azure;
+  font-weight: bold;
+}
+
+.carousel-caption {
+  top: 0;
+  bottom: auto;
+}
+.contact {
+  background-image: url('./img/food2.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+/* 
+.contact .h1 {
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(9, 9, 9);
+  text-align: center;
+} */
+
+.forms {
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  color: rgb(243, 243, 243);
+}
+
+.submit {
+  font-size: 25px;
+  border: 0ex;
+}
